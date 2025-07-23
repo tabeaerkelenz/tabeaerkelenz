@@ -11,7 +11,7 @@ Currently learning and building with:
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-333?logo=flask)
 ![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite)
-![SQLAlchemy](https://img.shields.io/badge/-_-?logo=SQLAlchemy)
+![SQLAlchemy](https://img.shields.io/badge/-_-333?logo=SQLAlchemy)
 ![Pytest](https://img.shields.io/badge/-Pytest-333?logo=pytest)
 ![OOP](https://img.shields.io/badge/-OOP-333)
 ![Git](https://img.shields.io/badge/-Git-333?logo=git)
