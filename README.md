@@ -15,8 +15,8 @@ Currently learning and building with:
 ![Pytest](https://img.shields.io/badge/-Pytest-333?logo=pytest)
 ![OOP](https://img.shields.io/badge/-OOP-333)
 ![Git](https://img.shields.io/badge/-Git-333?logo=git)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![HTML](https://img.shields.io/badge/-HTML5-333?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333?logo=css3)
 
 ---
 
