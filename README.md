@@ -20,8 +20,8 @@ Backend developer in training with roots in **chemistry**, a passion for **logic
 ---
 
 ## 📈 Current Projects
-- 🛠️ Working on a backend project using FastAPI and PostgreSQL
-- 🎯 Goal: Build clean, scalable applications that solve real problems
+- Working on a backend project using FastAPI and PostgreSQL
+- Goal: Build clean, scalable applications that solve real problems
 
 ---
 
