@@ -1,34 +1,32 @@
-## Hi, I'm Tabea 👋
+## Hi, I'm Tabea 
 
-I’m a backend developer in training, combining my passion for **clean systems** with my background in **coaching** and **retail teamwork**.
+Backend developer in training with roots in **chemistry**, a passion for **logical systems**, and a mindset shaped by **teamwork** and **continuous learning**.
 
-Currently learning and building with:
-- 🐍 Python · 🌐 Flask · 🗃️ SQL · 🔌 APIs
-
----
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-333?logo=flask)
-![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333?logo=SQLAlchemy)
-![Pytest](https://img.shields.io/badge/-Pytest-333?logo=pytest)
 ![OOP](https://img.shields.io/badge/-OOP-333)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333?logo=SQLAlchemy)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite)
+![Pytest](https://img.shields.io/badge/-Pytest-333?logo=pytest)
 ![Git](https://img.shields.io/badge/-Git-333?logo=git)
 ![HTML](https://img.shields.io/badge/-HTML5-333?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-333?logo=css3)
 
+
 ---
 
 ## 📈 Current Projects
-- 🛠️ Working on a backend project using Flask and PostgreSQL
+- 🛠️ Working on a backend project using FastAPI and PostgreSQL
 - 🎯 Goal: Build clean, scalable applications that solve real problems
 
 ---
 
-## 🌱 What I'm learning
-- ✅ Flask REST APIs
-- ✅ SQLAlchemy ORM
+## 🌱 Currently learning
+- ⚙️ Alembic migrations & schema versioning
 - 🐘 PostgreSQL basics and setup
 - ☁️ (Cloud deployment)
 
