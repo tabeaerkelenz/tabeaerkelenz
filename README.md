@@ -1,40 +1,28 @@
-## Hi, I'm Tabea 
+# Hi, I'm Tabea 👋
 
-Backend developer in training with roots in **chemistry**, a passion for **logical systems**, and a mindset shaped by **teamwork** and **continuous learning**.
+Backend Developer based in Germany. I build REST APIs and backend systems
+with Python — from database design to deployment.
 
+Previously studied chemistry; now I design systems instead of compounds.
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-333?logo=flask)
-![OOP](https://img.shields.io/badge/-OOP-333)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333?logo=SQLAlchemy)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333?logo=SQLAlchemy)
+![Alembic](https://img.shields.io/badge/-Alembic-333)
+![Docker](https://img.shields.io/badge/-Docker-333?logo=docker)
 ![Pytest](https://img.shields.io/badge/-Pytest-333?logo=pytest)
 ![Git](https://img.shields.io/badge/-Git-333?logo=git)
-![HTML](https://img.shields.io/badge/-HTML5-333?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
 
+## 🚀 Current Projects
 
----
+- **[ClubConnect](https://github.com/tabeaerkelenz/ClubConnect)** – Sports club management API · FastAPI · PostgreSQL · Docker · JWT · Deployed
+- **[Yoga Teacher App](https://github.com/tabeaerkelenz/yoga-app-fullstack)** – Learning platform for yoga teachers · FastAPI · JS Frontend *(in development)*
+- **[Crypto Arbitrage Bot](https://github.com/tabeaerkelenz/krypto-abitrage-bot)** – Real-time crypto market tracker & arbitrage detection *(in development)*
 
-## 📈 Current Projects
-- Working on a backend project using FastAPI and PostgreSQL
-- Goal: Build clean, scalable applications that solve real problems
+## 🌐 Connect
 
----
-
-## 🌱 Currently learning
-- ⚙️ Alembic migrations & schema versioning
-- 🐘 PostgreSQL basics and setup
-- ☁️ (Cloud deployment)
-
----
-
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
-
----
-
-> 💡 *“Backend development fascinates me because it combines creative problem-solving with structured systems thinking.”*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabea-erkelenz/)
