@@ -21,7 +21,7 @@ Previously studied chemistry; now I design systems instead of compounds.
 
 - **[ClubConnect](https://github.com/tabeaerkelenz/ClubConnect)** – Sports club management API · FastAPI · PostgreSQL · Docker · JWT · Deployed
 - **[Yoga Teacher App](https://github.com/tabeaerkelenz/yoga-app-fullstack)** – Learning platform for yoga teachers · FastAPI · JS Frontend *(in development)*
-- **[Crypto Arbitrage Bot](https://github.com/tabeaerkelenz/krypto-abitrage-bot)** – Real-time crypto market tracker & arbitrage detection *(in development)*
+
 
 ## 🌐 Connect
 
